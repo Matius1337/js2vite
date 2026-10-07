@@ -16,5 +16,8 @@ let slogan;
 let course;
 
 console.log(typeof seats);
-
+console.log(typeof title);
+console.log(typeof enerolled);
+console.log(typeof slogan);
+console.log(typeof course);
 
