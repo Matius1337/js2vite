@@ -9,7 +9,7 @@ console.log(typeof []);
 console.log(typeof {})
 
 const seats=12;
-const title="kurs JavaScript";
+const title='kurs JavaScript'
 
 let enrolled=12;
 let slogan;
