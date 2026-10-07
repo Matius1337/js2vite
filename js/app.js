@@ -15,6 +15,7 @@ let enrolled=12;
 let slogan;
 let course;
 
+
 console.log(typeof seats);
 console.log(typeof title);
 console.log(typeof enerolled);
