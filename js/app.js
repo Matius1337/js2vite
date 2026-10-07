@@ -18,7 +18,41 @@ let course;
 
 console.log(typeof seats);
 console.log(typeof title);
-console.log(typeof enerolled);
+console.log(typeof enrolled);
 console.log(typeof slogan);
 console.log(typeof course);
+
+
+let language = (seats <=12);
+let title='kurs'${language};
+
+if(warunek)
+{
+
+}else if(warunek2){
+
+}
+
+switch(seats){
+    case 1:
+        {
+            title='nikogo w JSach';
+            break;
+        }
+    case 2:
+        {
+            title='Hurra pierwszy w JS';
+            break;
+        }
+    default:
+        {
+            title='kurs w przygotowaniu';
+        }
+}
+
+
+
+
+
+
 
