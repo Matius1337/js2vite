@@ -15,4 +15,6 @@ let enrolled=12;
 let slogan;
 let course;
 
+console.log(typeof seats);
+
 
