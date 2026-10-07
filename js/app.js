@@ -1,1 +1,18 @@
 console.log('Katalog warsztatów uruchomiony');
+console.log(typeof 'def');
+console.log(typeof 127);
+console.log(typeof true);
+console.log(typeof "127")
+console.log(typeof undefined);
+console.log(typeof NaN);
+console.log(typeof []);
+console.log(typeof {})
+
+const seats=12;
+const title="kurs JavaScript";
+
+let enrolled=12;
+let slogan;
+let course;
+
+
